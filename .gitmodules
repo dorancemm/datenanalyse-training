@@ -1,0 +1,3 @@
+[submodule "introduction-to-git"]
+	path = 01-GitHub-Grundlagen/introduction-to-git
+	url = https://github.com/skills/introduction-to-git.git
